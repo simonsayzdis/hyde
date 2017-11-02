@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## What If…life is death
 
