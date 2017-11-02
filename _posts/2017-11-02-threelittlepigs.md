@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: Introducing Hyde
 ---
 ## Three Little Pigs and Their Tenants
 
