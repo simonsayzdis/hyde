@@ -7,15 +7,15 @@ permalink:        pretty
 
 
 # Setup
-title:            Hydse
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Simon Dot's Story
+tagline:          'Story Telling for the soul'
+description:      'Just publishing stories'
+url:              http://simondot.com
 baseurl:          ''
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Simon Dot'
+  url:            https://twitter.com/simondot
 
 paginate:         5
 
