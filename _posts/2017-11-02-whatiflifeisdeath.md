@@ -1,7 +1,8 @@
 ---
 published: true
+layout: post
+Title: What If...life is death
 ---
-## What If…life is death
 
 What if life and death is the exact opposite of what we know.
 Babies are born in this ungodly show.
